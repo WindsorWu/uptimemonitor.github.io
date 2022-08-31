@@ -3,9 +3,9 @@ owner: WindsorWu # Your GitHub organization or username, where this repository l
 repo: uptimemonitor.github.io # The name of this repository
 
 sites:
-  - name: WindsorWu's Index
+  - name: Index
     url: https://www.nekolin.top
-  - name: 温莎部落格
+  - name: WindsorWu's Blog
     url: https://blog.nekolin.top
 
 status-website:
@@ -14,8 +14,8 @@ status-website:
   cname: status.nekolin.top
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Nekolin Upptime
-  introTitle: "**Nekolin Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: 喵酱小林网站监控
+  introTitle: "**喵酱小林网站监控** 是开源的数据监测收集网站, 完全依赖于Github运行."
   introMessage: 
   navbar:
     - title: Status
