@@ -7,21 +7,23 @@ sites:
     url: https://www.nekolin.top
   - name: WindsorWu's Blog
     url: https://blog.nekolin.top
+    icon: https://raw.githubusercontentS.com/WindsorWu/WindsorWu.github.io/master/img/icon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nekolin.top
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 喵酱小林网站监控
-  introTitle: "**喵酱小林网站监控** 是开源的数据监测收集网站, 完全依赖于Github运行."
+  logoUrl: https://raw.githubusercontentS.com/WindsorWu/WindsorWu.github.io/master/img/icon.png
+  name: 喵酱小林网站监测
+  introTitle: "**喵酱小林网站监测** 是开源的数据监测收集网站, 完全依赖于Github运行."
   introMessage: 
   navbar:
     - title: 监控
       href: /
     - title: 博客
       href: https://blog.nekolin.top
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
