@@ -5,7 +5,7 @@ repo: uptimemonitor.github.io # The name of this repository
 sites:
   - name: WindsorWu's Index
     url: https://www.nekolin.top
-  - name: WindsorWu's Blog
+  - name: 温莎部落格
     url: https://blog.nekolin.top
 
 status-website:
