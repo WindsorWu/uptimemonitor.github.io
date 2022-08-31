@@ -18,9 +18,9 @@ status-website:
   introTitle: "**喵酱小林网站监控** 是开源的数据监测收集网站, 完全依赖于Github运行."
   introMessage: 
   navbar:
-    - title: Status
+    - title: 监控
       href: /
-    - title: Blog
+    - title: 博客
       href: https://blog.nekolin.top
 
 # Upptime also supports notifications, assigning issues, and more
