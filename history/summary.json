@@ -6,18 +6,16 @@
     "slug": "index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 328,
     "timeWeek": 328,
     "timeMonth": 328,
     "timeYear": 520,
-    "dailyMinutesDown": {
-      "2023-09-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WindsorWu's Blog",
