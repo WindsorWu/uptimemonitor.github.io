@@ -1,22 +1,22 @@
 [
   {
     "name": "Index",
-    "url": "https://www.nekolin.top",
-    "icon": "https://icons.duckduckgo.com/ip3/www.nekolin.top.ico",
+    "url": "https://nekolin.top",
+    "icon": "https://icons.duckduckgo.com/ip3/nekolin.top.ico",
     "slug": "index",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 525,
+    "time": 503,
+    "timeDay": 328,
+    "timeWeek": 328,
+    "timeMonth": 328,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-09-02": 0
+      "2023-09-02": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 350,
+    "time": 351,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   }
 ]
