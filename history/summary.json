@@ -4,18 +4,20 @@
     "url": "https://nekolin.top",
     "icon": "https://icons.duckduckgo.com/ip3/nekolin.top.ico",
     "slug": "index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 328,
-    "timeWeek": 338,
+    "time": 449,
+    "timeDay": 334,
+    "timeWeek": 342,
     "timeMonth": 331,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "timeYear": 380,
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "WindsorWu's Blog",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 313,
-    "timeWeek": 326,
-    "timeMonth": 331,
-    "timeYear": 342,
+    "time": 347,
+    "timeDay": 365,
+    "timeWeek": 342,
+    "timeMonth": 333,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   }
 ]
