@@ -4,19 +4,19 @@
     "url": "https://nekolin.top",
     "icon": "https://icons.duckduckgo.com/ip3/nekolin.top.ico",
     "slug": "index",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 334,
-    "timeWeek": 342,
-    "timeMonth": 331,
+    "time": 448,
+    "timeDay": 348,
+    "timeWeek": 346,
+    "timeMonth": 333,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 7
     }
   },
   {
