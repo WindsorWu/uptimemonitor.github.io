@@ -7,14 +7,18 @@ sites:
     url: https://nekolin.top
   - name: WindsorWu's Blog
     url: https://blog.nekolin.top
-    icon: https://raw.githubusercontentS.com/WindsorWu/WindsorWu.github.io/master/img/icon.png
+    icon: https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png
+  - name: QQFarm
+    url: farm.nekolin.top
+    icon: 🌾
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nekolin.top
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontentS.com/WindsorWu/WindsorWu.github.io/master/img/icon.png
+  logoUrl: https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png
   name: 喵酱小林网站监测
   introTitle: "**喵酱小林网站监测** 是开源的数据监测收集网站, 完全依赖于Github运行."
   introMessage: 
