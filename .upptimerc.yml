@@ -8,9 +8,8 @@ sites:
   - name: WindsorWu's Blog
     url: https://blog.nekolin.top
     icon: https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png
-  - name: QQFarm
+  - name: 🌾 QQFarm
     url: https://farm.nekolin.top
-    icon: 🌾
     
 
 status-website:
