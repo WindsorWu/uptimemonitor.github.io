@@ -9,7 +9,8 @@ sites:
     url: https://blog.nekolin.top
     icon: https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png
   - name: QQFarmCalc
-    url: https://blog.nekolin.top/qq-farm-calc/
+    url: https://qqfarmcalc.nekolin.top
+    icon: https://raw.githubusercontent.com/WindsorWu/qq-farm-calc/refs/heads/main/seed_images_named/20059_%E5%A4%A7%E7%99%BD%E8%8F%9C_Crop_59_Seed.png
     
 
 status-website:
