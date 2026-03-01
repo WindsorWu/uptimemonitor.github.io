@@ -9,7 +9,7 @@ sites:
     url: https://blog.nekolin.top
     icon: https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png
   - name: QQFarm
-    url: farm.nekolin.top
+    url: https://farm.nekolin.top
     icon: 🌾
     
 
