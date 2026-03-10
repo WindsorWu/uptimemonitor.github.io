@@ -22,19 +22,19 @@
     "url": "https://blog.nekolin.top",
     "icon": "https://raw.githubusercontent.com/WindsorWu/WindsorWu.github.io/refs/heads/master/img/icon.png",
     "slug": "windsor-wu-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 385,
-    "timeWeek": 351,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "timeDay": 353,
+    "timeWeek": 347,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2026-03-10": 2
+      "2026-03-10": 58
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://qqfarmcalc.nekolin.top",
     "icon": "https://raw.githubusercontent.com/WindsorWu/qq-farm-calc/refs/heads/main/seed_images_named/20059_%E5%A4%A7%E7%99%BD%E8%8F%9C_Crop_59_Seed.png",
     "slug": "qq-farm-calc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 374,
-    "timeWeek": 338,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 347,
+    "timeDay": 370,
+    "timeWeek": 341,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2026-03-10": 0
+      "2026-03-10": 56
     }
   }
 ]
