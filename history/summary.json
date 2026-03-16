@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 335,
-    "timeDay": 355,
-    "timeWeek": 378,
-    "timeMonth": 352,
-    "timeYear": 352,
+    "timeDay": 369,
+    "timeWeek": 363,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 307,
-    "timeDay": 397,
-    "timeWeek": 358,
-    "timeMonth": 336,
-    "timeYear": 336,
+    "time": 308,
+    "timeDay": 367,
+    "timeWeek": 360,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2026-03-10": 58
     }
@@ -43,16 +43,16 @@
     "icon": "https://raw.githubusercontent.com/WindsorWu/qq-farm-calc/refs/heads/main/seed_images_named/20059_%E5%A4%A7%E7%99%BD%E8%8F%9C_Crop_59_Seed.png",
     "slug": "qq-farm-calc",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 340,
-    "timeDay": 373,
-    "timeWeek": 334,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 341,
+    "timeDay": 354,
+    "timeWeek": 339,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2026-03-10": 56
     }
