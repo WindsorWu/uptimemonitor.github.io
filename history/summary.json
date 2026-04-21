@@ -42,9 +42,9 @@
     "url": "https://qqfarmcalc.nekolin.top",
     "icon": "https://raw.githubusercontent.com/WindsorWu/qq-farm-calc/refs/heads/main/seed_images_named/20059_%E5%A4%A7%E7%99%BD%E8%8F%9C_Crop_59_Seed.png",
     "slug": "qq-farm-calc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -54,6 +54,7 @@
     "timeMonth": 309,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-03-10": 56
     }
   }
